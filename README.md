@@ -1,4 +1,4 @@
-# British Airways Passenger Review Dashboard
+# British Airways Customer Review Dashboard
 
 # **Table of Contents**  
 [1. Objective](#1-objective)  
