@@ -16,10 +16,10 @@
 This project analyses British Airways passenger reviews and flight route data (March 2016 - October 2023) to identify trends in customer satisfaction, operational performance, and route efficiency. The goal is to provide actionable insights to improve service quality and business strategy.  
  
 ## 2. Data Source  
- * - **Customer Reviews**: Publicly available passenger feedback, including ratings, sentiments, and textual comments.  
- * - **Flight Routes**: Geolocation and frequency data for British Airways destinations.  
- * - **Timeframe**: March 2016 to October 2023.  
- * 
+ * **Customer Reviews**: Publicly available passenger feedback, including ratings, sentiments, and textual comments.  
+ * **Flight Routes**: Geolocation and frequency data for British Airways destinations.  
+ * **Timeframe**: March 2016 to October 2023.  
+   
 ## 3. Stages  
 1. **Data Collection**: Aggregated structured (ratings, flight routes) and unstructured (text reviews) data.  
 2. **Data Cleaning**: Removed duplicates, handled missing values, and standardised formats.  
